@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MouseBridge</title>
         <item>
-            <title>0.2.7</title>
-            <pubDate>Fri, 30 Oct 2026 02:06:17 +0000</pubDate>
-            <sparkle:version>2007</sparkle:version>
-            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <title>0.2.8</title>
+            <pubDate>Fri, 30 Oct 2026 05:45:04 +0000</pubDate>
+            <sparkle:version>2008</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/gmch1/mousebridge-releases/releases/download/v0.2.7/MouseBridge-v0.2.7-macOS.zip" length="1245491" type="application/octet-stream" sparkle:edSignature="xRQP8BiPH2srInU8Ifpf7gLEYPyLYq2Pv57BewKgQKEr022BnDPUZv3/Sy/4TubOULAkfwQpEy9Mla4LYREHAA=="></enclosure>
+            <enclosure url="https://github.com/gmch1/mousebridge-releases/releases/download/v0.2.8/MouseBridge-v0.2.8-macOS.zip" length="1253861" type="application/octet-stream" sparkle:edSignature="gxrnYuJo0LhEI+dtxw7z5RNZB4nzS3azb3cMJLYhQEjOg1Tn0FdNIbvw/Aq7QgUL09CutoXiyul7GdvQv5JqDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: f42UdCm2tOtpHNk05MQ8uj3fpvKZKCFIoMSWzgsGp3aHQe9neKtHUfQXor1XFV3gn1OWqAdBtdKlvOPEIQDXAw==
+edSignature: LRi8t7PmIpFaNms11l6wBV1iq5TNEaIPIiAEyXCNSpk6QvEF3TiRX5Zz3k1onBMzVQhL5R12OgUG0N3GdukqCA==
 length: 1145
 -->
